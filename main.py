@@ -1,3 +1,3 @@
-from core import server
+from server.core import server
 
 server.main()
